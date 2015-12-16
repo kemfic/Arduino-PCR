@@ -1,0 +1,17 @@
+Parts List for device
+
+—Relay(R40-11D2-5/6, any 5v relay will do)
+—Arduino UNO(any other will probably do)
+—Transistor
+
+Heating
+—24V cartridge heater
+
+Cooling
+—Peltier device(TEC1-2706)
+—CPU heatsink
+—Thermal Paste(Arctic Silver)
+
+Temperature Sensing
+—100K thermistor
+—100K resistor
